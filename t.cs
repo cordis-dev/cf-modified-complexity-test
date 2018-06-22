@@ -26,6 +26,14 @@ public class t
 				return text;
 			case "11":
 				return text;
+			case "12":
+				return text;
+			case "13":
+				return text;
+			case "14":
+				return text;
+			case "15":
+				return text;				
 		}
 
 		return text;

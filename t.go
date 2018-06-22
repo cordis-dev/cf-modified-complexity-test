@@ -30,6 +30,14 @@ func main() {
     case 10:
         fmt.Println("10")
     case 11:
-        fmt.Println("11")		
+        fmt.Println("11")
+    case 12:
+        fmt.Println("12")
+    case 13:
+        fmt.Println("13")
+    case 14:
+        fmt.Println("14")		
+    case 15:
+        fmt.Println("15")		
     }
 }

@@ -35,7 +35,19 @@ public function test()
 			break;
 		case "11":
 			echo "11";
-			break;		
+			break;
+		case "12":
+			echo "12";
+			break;
+		case "13":
+			echo "13";
+			break;
+		case "14":
+			echo "14";
+			break;
+		case "15":
+			echo "15";
+			break;			
 	}
 }
 ?>

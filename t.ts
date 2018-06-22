@@ -19,11 +19,18 @@ var test = function(text) {
         return text;
     case "9":
         return text;
-    case "10":
-        return text;
-    case "11":
-        return text;
-
+	case "10":
+		return text;
+	case "11":
+		return text;
+	case "12":
+		return text;
+	case "13":
+		return text;
+	case "14":
+		return text;
+	case "15":
+		return text;
     default:
         return text;
     }

@@ -13,4 +13,8 @@ getComplexity = (source) ->
 		when score < 9 then '9'
 		when score < 10 then '10'
 		when score < 11 then '11'
+		when score < 12 then '12'
+		when score < 13 then '13'
+		when score < 14 then '14'
+		when score < 15 then '15'
 		else '11+'

@@ -12,6 +12,10 @@ object HelloWorld {
     case '8'                => 8
     case '9'                => 9
     case '0'                => 10
-    case _                  => 12
+    case '1'                => 11
+    case '<'                => 12
+    case '>'                => 13
+    case '/'                => 14
+    case _                  => 16
   }
 }
