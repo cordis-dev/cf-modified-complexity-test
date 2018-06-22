@@ -1,3 +1,4 @@
+// https://github.com/fzipp/gocyclo/blob/master/gocyclo.go
 package main
 
 import "fmt"
@@ -5,7 +6,6 @@ import "time"
 
 func main() {
 
-    // Here's a basic `switch`.
     i := 2
     fmt.Print("Write ", i, " as ")
     switch i {
