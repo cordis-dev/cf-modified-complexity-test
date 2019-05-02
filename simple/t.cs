@@ -4,4 +4,9 @@ public class t
 	{
 		return text;
 	}
+	
+	public string Test2(string text)
+	{
+		return text;
+	}
 }

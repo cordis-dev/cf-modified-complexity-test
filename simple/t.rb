@@ -3,3 +3,7 @@
 def method_name
 	car = "Patriot"
 end
+
+def method_name_2
+	car = "Patriot2"
+end

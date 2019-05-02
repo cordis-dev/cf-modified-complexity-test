@@ -7,3 +7,7 @@ import "time"
 func main() {
     i := 2
 }
+
+func main2() {
+    i := 3
+}
