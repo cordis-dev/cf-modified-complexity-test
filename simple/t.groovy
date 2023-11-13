@@ -9,4 +9,8 @@ class SwitchExample {
    static main2(args) {
       int num = 4;
    }
+
+   static main3(args) {
+      int num = 5;
+   }   
 }
