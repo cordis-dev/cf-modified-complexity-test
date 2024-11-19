@@ -21,6 +21,16 @@ def method_name():
         manufacturer = "BMW"
     elif car == "Tundra":
         manufacturer = "Nissan"
+    elif car == "Tundra2":
+        manufacturer = "Nissan2"
+    elif car == "Tundra3":
+        manufacturer = "Nissan3"
+    elif car == "Tundra4":
+        manufacturer = "Nissan4"
+    elif car == "Tundra5":
+        manufacturer = "Nissan5"
+    elif car == "Tundra6":
+        manufacturer = "Nissan6"        
     else:
         manufacturer = "Unknown"
 
