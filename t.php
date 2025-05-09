@@ -36,7 +36,7 @@ public function ifElseifTest()
     }
 }
 
-public function swtichTest()
+public function switchTest()
 {
 	switch ($i) {
 		case "1":
