@@ -62,6 +62,10 @@ public class t
 		{
 			return text;
 		}
+		else if (text == "16")
+		{
+			return text;
+		}		
 
 		// default case
 		return text;
