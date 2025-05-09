@@ -1,4 +1,4 @@
-public class Complexity {
+public class t {
 
     public static void ifElseTest(String[] args) {
         int num = 3;
