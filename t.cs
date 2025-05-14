@@ -104,7 +104,11 @@ public class t
 			case "14":
 				return text;
 			case "15":
-				return text;				
+				return text;
+			case "16":
+				return text;
+			case "17":
+				return text;
 		}
 
 		return text;
