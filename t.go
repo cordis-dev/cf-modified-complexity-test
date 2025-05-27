@@ -34,6 +34,8 @@ func printNumberWithIfElse(i int) {
         fmt.Println("14")
     } else if i == 15 {
         fmt.Println("15")
+    } else if i == 16 {
+        fmt.Println("16")
     }
 }
 
