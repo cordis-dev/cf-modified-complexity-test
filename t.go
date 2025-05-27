@@ -1,10 +1,9 @@
 package main
 
 import "fmt"
-import "time"
 
-func main() {
-
+// printNumberWithIfElse prints a number using if-else statements
+func printNumberWithIfElse(i int) {
     if i == 1 {
         fmt.Println("1")
     } else if i == 2 {
@@ -36,8 +35,10 @@ func main() {
     } else if i == 15 {
         fmt.Println("15")
     }
+}
 
-    i := 2
+// printNumberWithSwitch prints a number using a switch statement
+func printNumberWithSwitch(i int) {
     fmt.Print("Write ", i, " as ")
     switch i {
     case 1:
@@ -67,8 +68,15 @@ func main() {
     case 13:
         fmt.Println("13")
     case 14:
-        fmt.Println("14")		
+        fmt.Println("14")
     case 15:
-        fmt.Println("15")		
+        fmt.Println("15")
     }
+}
+
+func main() {
+    i := 2
+    
+    printNumberWithIfElse(i)
+    printNumberWithSwitch(i)
 }
