@@ -33,6 +33,8 @@ public function ifElseifTest()
         echo "14";
     } elseif ($i == "15") {
         echo "15";
+    } elseif ($i == "16") {
+        echo "16";
     }
 }
 
