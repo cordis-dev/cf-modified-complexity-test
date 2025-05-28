@@ -1,7 +1,7 @@
-class SwitchExample {
+class ComplexityExamples {
     companion object {
         @JvmStatic
-        fun main(args: Array<String>) {
+        fun whenTest(args: Array<String>) {
             val num = 3
             when (num) {
                 1 -> println("1")
@@ -21,6 +21,27 @@ class SwitchExample {
                 15 -> println("15")
                 else -> println("Something else")
             }
+        }
+
+        @JvmStatic
+        fun ifElseTest(args: Array<String>) {
+            val num = 3
+            if (num == 1) println("1")
+            else if (num == 2) println("2")
+            else if (num == 3) println("3")
+            else if (num == 4) println("4")
+            else if (num == 5) println("5")
+            else if (num == 6) println("6")
+            else if (num == 7) println("7")
+            else if (num == 8) println("8")
+            else if (num == 9) println("9")
+            else if (num == 10) println("10")
+            else if (num == 11) println("11")
+            else if (num == 12) println("12")
+            else if (num == 13) println("13")
+            else if (num == 14) println("14")
+            else if (num == 15) println("15")
+            else println("Something else")
         }
     }
 }
