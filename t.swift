@@ -35,6 +35,8 @@ class T {
             print("14")
         } else if num == 15 {
             print("15")
+        } else if num == 16 {
+            print("16")
         } else {
             print("Something else")
         }
