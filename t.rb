@@ -47,4 +47,7 @@ def case_when_test
 	   when "Tundra" then "Nissan"
 	   else "Unknown"
 	end
+
+	manufacturer
 end
+
